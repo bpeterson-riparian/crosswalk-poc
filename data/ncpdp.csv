@@ -1,0 +1,11 @@
+ncpdp_id,npi,dea_id,pharmacy_name
+NC001,1234567890,DEA001,Main Street Pharmacy
+NC002,2345678901,DEA002,Oak Avenue Drugs
+NC003,3456789012,,Austin Rx Center
+NC004,4567890123,DEA003,Denver Health Pharmacy
+NC005,,DEA004,Quick Care Pharmacy
+NC006,6789012345,DEA005,Boston Pharmacy Plus
+NC007,7890123456,,Pacific Pharmacy
+NC008,,DEA006,Express Scripts Rx
+NC009,8901234567,DEA007,Chicago Drug Mart
+NC010,9012345678,DEA008,Phoenix Pharmacy

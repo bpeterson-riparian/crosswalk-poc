@@ -1,0 +1,8 @@
+hin_id,address,zip,class_of_trade
+HIN001,100 Main St,62701,Retail Pharmacy
+HIN002,400 Elm St,80201,Hospital Pharmacy
+HIN003,700 Birch Blvd,98101,Chain Pharmacy
+HIN004,999 River Rd,97201,Clinic Pharmacy
+HIN005,888 Lake St,60601,Retail Pharmacy
+HIN006,555 River Rd,75201,Wholesale
+HIN007,777 Lake St,94101,Mail Order
